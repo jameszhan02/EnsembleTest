@@ -9,4 +9,4 @@ to start the project run:
 ```npm run ios``` to run project in ios device
 
 
-###So the for this demo code, I only tested on ios device
+### So far for this demo code, I only tested on ios device
