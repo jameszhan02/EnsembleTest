@@ -209,7 +209,6 @@ const styles = StyleSheet.create({
   lightYear: {
     fontSize: 15,
     fontWeight: '500',
-    color: 'white',
     width: '65%',
   },
   container:{
