@@ -5,7 +5,7 @@ to start the project run:
 
 ```npm install```
 
-```npm run star``` to start the metro 
+```npm run start``` to start the metro 
 ```npm run ios``` to run project in ios device
 
 
